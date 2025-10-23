@@ -1,6 +1,10 @@
 <!-- Banner -->
-<h1 align="center">Hi there 👋, I'm Archon</h1>
+<h1 align="center">Hi there 👋, I'm Divy Patel</h1>
 <h3 align="center">AI Enthusiast | Machine Learning Researcher | Reinforcement Learning Explorer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Archon226&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
