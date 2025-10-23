@@ -1,29 +1,94 @@
-<h1 align="center">Hi 👋, I'm Archon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Banner -->
+<h1 align="center">Hi there 👋, I'm Archon</h1>
+<h3 align="center">AI Enthusiast | Machine Learning Researcher | Reinforcement Learning Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archon226&label=Profile%20views&color=0e75b6&style=flat" alt="archon226" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archon226" alt="archon226" /></a> </p>
+### 🌌 About Me
 
-- 🔭 I’m currently working on [Musi-Genre classification](https://github.com/Archon226/Music-Genre-Classification)
+I'm a **Computer Science graduate from UWE Bristol (UK)** with a strong focus on **Artificial Intelligence, Machine Learning**, and **Reinforcement Learning**.  
 
-- 🌱 I’m currently learning **Neural Networks**
+My recent research explored **EV Charging Optimization** using **Deep Q-Networks (DQN)** and **Proximal Policy Optimization (PPO)** — aiming to make energy distribution smarter and more sustainable.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Archon226](https://github.com/Archon226)
+Beyond research, I enjoy blending **data-driven insights** with **creative problem-solving** — from building predictive ML models to designing intelligent, adaptive systems.
 
-- 💬 Ask me about **Machine Learning**
+---
 
-- 📫 How to reach me **t.me/arcxn**
+### 🧠 Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/divypatel22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divypatel22" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.com/users/489163566667137029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.com/users/489163566667137029" height="30" width="40" /></a>
+- 🔬 **Research:** EV Charging Optimization via Reinforcement Learning (DQN vs PPO)  
+- ⚙️ **Exploration:** Algorithmic efficiency & real-time optimization  
+- 📈 **Goal:** Develop scalable, sustainable, and intelligent AI-driven systems  
+- 🧩 **Interest:** Reinforcement learning, optimization, and intelligent agents  
+
+---
+
+### 💻 Tech Stack
+
+#### Languages & Frameworks:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C97?style=for-the-badge&logo=plotly&logoColor=white)
+
+#### Tools & Platforms:
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔋 EV Charging Optimization (DQN vs PPO)
+> Research-driven project comparing Reinforcement Learning algorithms for optimizing EV charging demand, focusing on efficiency, adaptability, and real-time decision-making.
+
+#### 🎵 Music Genre Classification using ML
+> Designed and trained a neural network to classify music genres using audio features, applying advanced preprocessing and model optimization techniques.
+
+#### 💊 Health Insurance Prediction
+> Built a regression-based ML model to predict insurance charges using user demographics and health factors, applying feature engineering for improved accuracy.
+
+#### 🏫 RFID-Based Smart Attendance System
+> Developed a smart IoT-based attendance management system integrating RFID sensors and database automation for streamlined record-keeping.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Archon226&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Archon226&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Archon226&theme=tokyo-night" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archon226&show_icons=true&locale=en" alt="archon226" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archon226&" alt="archon226" /></p>
+### 🧩 Connect With Me
+
+<p align="left">
+  <a href="mailto:divypatel247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/archon2263"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://t.me/eliteborn"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+### 💫 Quote I Live By
+> *"Between data and dreams lies discovery — where intelligence meets imagination."*  
+> — Divy Patel
+
+---
+
+### ⚡ Fun Fact
+When I'm not optimizing algorithms, I’m probably writing poetry, exploring music, or spending time with my kitten **Kuromi 🐾**.
+
+---
