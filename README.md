@@ -79,7 +79,6 @@ Beyond research, I enjoy blending **data-driven insights** with **creative probl
 ### 🧩 Connect With Me
 
 <p align="left">
-  <a href="mailto:divypatel247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.com/users/archon2263"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://t.me/eliteborn"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
