@@ -65,10 +65,6 @@ Beyond research, I enjoy blending **data-driven insights** with **creative probl
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Archon226&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Archon226&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Archon226&theme=tokyo-night" />
