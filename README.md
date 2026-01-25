@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hi there 👋, I'm Divy Patel</h1>
+<h1 align="center">Hi there 👋, I'm Archon</h1>
 <h3 align="center">AI Enthusiast | Machine Learning Researcher | Reinforcement Learning Explorer</h3>
 
 <p align="center">
