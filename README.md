@@ -61,16 +61,6 @@ Beyond research, I enjoy blending **data-driven insights** with **creative probl
 #### 🏫 RFID-Based Smart Attendance System
 > Developed a smart IoT-based attendance management system integrating RFID sensors and database automation for streamlined record-keeping.
 
----
-
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Archon226&theme=tokyo-night" />
-</p>
-
----
 
 ### 🧩 Connect With Me
 
